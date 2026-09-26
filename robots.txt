@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bristolhvacco.com/sitemap.xml
